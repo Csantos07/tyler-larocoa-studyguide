@@ -1,0 +1,18 @@
+body {
+
+}
+
+.parent {
+  border: 1px solid red;
+  display: flex;
+  justify-content: space-between;
+}
+div.child {
+  border: 1px solid black;
+  height: 200px;
+  width: 200px;
+  /* display: block; */
+  /* display: inline; */
+  /* display: inline-block; */
+  /* height: 100px; */
+}
